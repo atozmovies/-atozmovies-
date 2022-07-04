@@ -1,7 +1,7 @@
 {
-  "name": "Shoowin",
-  "version": "2.3.1",
-  "description": "Steaming made easier!",
+  "name": "atozmovies",
+  "version": "2.3.2",
+  "description": "Watch movies & TV-Shows for free in HD Quality",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -15,7 +15,7 @@
   },
   "author": "Lazarus",
   "license": "ISC",
-  "homepage": "https://shoow.in",
+  "homepage": "https://www.atozmovies.online",
   "devDependencies": {
     "@babel/core": "^7.16.0",
     "@babel/plugin-proposal-class-properties": "^7.16.0",

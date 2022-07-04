@@ -4,13 +4,14 @@ import "firebase/auth";
 
 // Initialize Firebase
 const config = {
-    apiKey: "AIzaSyADpTL7X7--v5pY5bXQ6fBTkFaYmIMRc_A",
-    authDomain: "watchable-b5122.firebaseapp.com",
-    projectId: "watchable-b5122",
-    storageBucket: "watchable-b5122.appspot.com",
-    messagingSenderId: "631428649845",
-    appId: "1:631428649845:web:e16f4bfa00582d3b0c393c",
-    measurementId: "G-YGKE9YCVXT"
+    apiKey: "AIzaSyCjBRnMXEIyrcwuhi_foskCTsZoV_xz_YY",
+	authDomain: "atozmovies-b5167.firebaseapp.com",
+	databaseURL: "https://atozmovies-b5167-default-rtdb.firebaseio.com",
+	projectId: "atozmovies-b5167",
+	storageBucket: "atozmovies-b5167.appspot.com",
+	messagingSenderId: "421588567710",
+	appId: "1:421588567710:web:802716361b48b2666e1d8f",
+	measurementId: "G-J8G7KGSRR0"
 };
 const firebaseApp = firebase.initializeApp(config);
 
