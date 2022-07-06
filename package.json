@@ -15,7 +15,7 @@
   },
   "author": "Lazarus",
   "license": "ISC",
-  "homepage": "https://www.atozmovies.online",
+  "homepage": "localhost",
   "devDependencies": {
     "@babel/core": "^7.16.0",
     "@babel/plugin-proposal-class-properties": "^7.16.0",
